@@ -89,7 +89,7 @@ java -cp out com.plantgrowth.ConsolePlantSimulator
 
 ### 📹 Video Demonstration
 
-https://github.com/akshad1007/Java-Swing-Plant-Simulator/blob/main/java%20swing%20project%20vedio.mp4
+![Virtual Plant Growth Simulator Demo](java%20swing%20project%20vedio.mp4)
 
 *Watch the complete interactive demonstration of the Virtual Plant Growth Simulator, showcasing the growth stages, watering mechanics, and educational lessons.*
 
