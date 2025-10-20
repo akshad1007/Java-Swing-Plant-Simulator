@@ -89,12 +89,11 @@ java -cp out com.plantgrowth.ConsolePlantSimulator
 
 ### 📹 Video Demonstration
 
-<video width="100%" controls>
-  <source src="java swing project vedio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+🎬 **[Watch the Virtual Plant Growth Simulator Demo](java%20swing%20project%20vedio.mp4)**
 
-*Watch the complete interactive demonstration of the Virtual Plant Growth Simulator, showcasing the growth stages, watering mechanics, and educational lessons.*
+*Click the link above to watch the complete interactive demonstration of the Virtual Plant Growth Simulator, showcasing the growth stages, watering mechanics, and educational lessons.*
+
+> **Note**: The video demonstrates the full plant growth cycle, from seed to flowering plant, and shows the consequences of overwatering. It includes both the GUI interface and educational messages for each stage.
 
 ## Project Architecture
 
