@@ -66,6 +66,17 @@ java -cp out com.plantgrowth.ConsolePlantSimulator
 5. **Analysis** - Study the repercussions of excessive intervention
 6. **Iteration** - Employ reset functionality to reinforce learned principles
 
+## Application Screenshots
+
+### 🌱 Growth Stages Visualization
+
+| Seed Stage | Flowering Stage | Dead Stage |
+|------------|-----------------|------------|
+| ![Seed Stage](screenshots/s1.jpg) | ![Flowering Stage](screenshots/s2.jpg) | ![Dead Stage](screenshots/s3.jpg) |
+| **Beginning**: Foundation stage with initial setup | **Peak**: Mature plant in full bloom | **Consequence**: Result of overwatering excess |
+
+*Visual demonstration of the plant's complete life cycle, from humble beginnings to inevitable decline when balance is not maintained.*
+
 ## Project Architecture
 
 ```
