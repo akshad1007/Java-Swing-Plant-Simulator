@@ -9,6 +9,14 @@ An interactive Java application that demonstrates the principles of sustainable 
 
 The Virtual Plant Growth Simulator serves as an interactive metaphor for human development, teaching essential life lessons through the simple act of plant care. By requiring precise watering at each growth stage, users learn the importance of balance, timing, and moderation in achieving sustainable success.
 
+## Project Purpose
+
+**🎯 WHY THIS PROJECT EXISTS:**
+
+**This project was created purely for fun and learning GUI development with Java Swing!** To make the basic Swing application more attractive and engaging, we added an interactive plant growth simulation with different life stages. The educational life lessons are a bonus feature that adds depth and meaning to what started as a simple GUI practice project.
+
+**What began as a fun experiment in Swing components and event handling evolved into a meaningful application that teaches balance and consequences through interactive plant care.**
+
 ## Key Features
 
 - **Interactive GUI Interface** - Professional Swing-based application with intuitive controls
