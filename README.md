@@ -85,6 +85,17 @@ java -cp out com.plantgrowth.ConsolePlantSimulator
 
 *Visual demonstration of the plant's complete life cycle, from humble beginnings to inevitable decline when balance is not maintained.*
 
+## Application Demo
+
+### 📹 Video Demonstration
+
+<video width="100%" controls>
+  <source src="java swing project vedio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*Watch the complete interactive demonstration of the Virtual Plant Growth Simulator, showcasing the growth stages, watering mechanics, and educational lessons.*
+
 ## Project Architecture
 
 ```
